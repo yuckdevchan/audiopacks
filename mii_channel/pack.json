@@ -1,0 +1,9 @@
+{
+  "name": "Mii Channel",
+  "description": "The Mii Channel Theme Music",
+  "author": "yuckdevchan",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
